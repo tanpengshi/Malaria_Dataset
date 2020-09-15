@@ -1,6 +1,6 @@
-# Malaria Dataset
+# Malaria Dataset Introduction
 
-Creating Data Visualizations with Malaria dataset for SGH Data Analyst Application
+To create Data Visualizations with Malaria dataset for SGH Data Analyst Application.
 
 ## Task
 
